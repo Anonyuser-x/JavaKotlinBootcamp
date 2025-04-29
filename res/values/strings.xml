@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="head_of_pizza">Beef Cheese XL</string>
+    <string name="type_of_pizza_1">Cheese</string>
+    <string name="type_of_pizza_2">Sausage</string>
+    <string name="type_of_pizza_3">Olive</string>
+    <string name="type_of_pizza_4">Papper</string>
+    <string name="timing">20 Min</string>
+    <string name="Delivery">Delivery</string>
+    <string name="Explain">Meet lovers, Get ready to meet your pizza</string>
+    <string name="prise">$5.99 </string>
+    <string name="button">ADD TO CART</string>
+</resources>

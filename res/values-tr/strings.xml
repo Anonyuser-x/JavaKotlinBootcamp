@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="head_of_pizza">Etli Peynirli XL</string>
+    <string name="type_of_pizza_1">Peynir</string>
+    <string name="type_of_pizza_2">Sucuk</string>
+    <string name="type_of_pizza_3">Zeytin</string>
+    <string name="type_of_pizza_4">Biber</string>
+    <string name="timing">20 dk</string>
+    <string name="Delivery">Teslimat</string>
+    <string name="Explain">Et sever, pizzan ile tanışmaya hazırlan</string>
+    <string name="prise">174 TL </string>
+    <string name="button">SEPETE EKLE</string>
+</resources>
